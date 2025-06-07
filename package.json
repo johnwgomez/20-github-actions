@@ -14,7 +14,7 @@
   "test-gui": "npx cypress open",
   "cypress:open": "cypress open",
   "cypress:run": "cypress run"
-}
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
